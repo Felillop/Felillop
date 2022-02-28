@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felillop
-- 👀 I’m interested in Data Science and ML
+- 👀 I’m interested in Data Science and ML, Specialized in economics and finance.
 - 🌱 I’m currently learning a Data Science Degree (UOC) and Mathematics Degree UNED 
 - 💞️ I’m looking for jobs
 - 📫 How to reach me by my Linkedin https://www.linkedin.com/in/f%C3%A9lix-jos%C3%A9-villalba-espinosa-b89511187/
